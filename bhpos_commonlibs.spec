@@ -19,6 +19,7 @@ BuildRequires:	libxml2 >= 2.5.8
 BuildRequires:	libusb-devel >= 0.1.8
 BuildRequires:	libxml++-devel >= 2.6
 BuildRequires:	pkgconfig
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 BananaPOS common bibraries, as the name suggests are needed by
