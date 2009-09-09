@@ -4,7 +4,7 @@
 Summary:	BananaPOS bhpos common libraries
 Name:		bhpos_commonlibs
 Version:	2.0.0
-Release:	%mkrel 0.beta3.3
+Release:	%mkrel 0.beta3.4
 License:	GPL
 Group:		System/Libraries
 URL:		http://www.bananahead.com
